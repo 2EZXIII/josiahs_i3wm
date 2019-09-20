@@ -26,9 +26,9 @@ Installation instructions:
     #. Navigate to your home directory by typing "cd ~".
     #. Run the following command "git clone https://github.com/2EZXIII/josiahs_i3wm.git".
     #. Check to make sure the repo downloaded by running "ls".
-    #. Make sure you have a new directory called "josiahs_i3".
-    #. Rename the "josiah_vim" directory to ".i3" using the following command: "sudo mv josiah_i3/ .i3/".
-    #. Conduct a complete system reboot
+    #. Make sure you have a new directory called "josiahs_i3wm".
+    #. Rename the "josiah_vim" directory to ".i3" using the following command: "sudo mv josiah_i3wm/ .i3/".
+    #. Conduct a complete system reboot (make sure the machine fully powers off for several seconds...otherwise problems could occur).
     #. Upon system reboot before logging in select the gear icon next to the password box, and select "i3"
     #. Login to linux with your credentials.
     #. You should now see a spinning wheel.  Press "Alt+Enter" to launch a terminal.
